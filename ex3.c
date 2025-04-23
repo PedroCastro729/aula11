@@ -2,7 +2,7 @@
 
 int main(void) {
     float nota[4];
-    float total;
+    float total = 0;
 
     printf("Digite a primeira nota: ");
     scanf("%f", &nota[0]);
